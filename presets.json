@@ -2,8 +2,8 @@
   {
     "id": 1,
     "name": "Cinematic",
-    "reshade_ini": "https://yourdomain.com/reshade/cinematic_reshade.ini",
-    "pure_ini":    "https://yourdomain.com/reshade/cinematic_pure.ini",
-    "image_path":  "https://cwel/img/cinematic.jpg"
+    "reshade_ini": "https://ac-reshade-presets.pages.dev/reshade/cinematic_reshade.ini",
+    "pure_ini":    "https://ac-reshade-presets.pages.dev/reshade/cinematic_pure.ini",
+    "image_path":  "https://ac-reshade-presets.pages.dev/img/cinematic.jpg"
   }
 ]
