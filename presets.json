@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Cinematic",
+    "reshade_ini": "https://yourdomain.com/reshade/cinematic_reshade.ini",
+    "pure_ini":    "https://yourdomain.com/reshade/cinematic_pure.ini",
+    "image_path":  "https://yourdomain.com/img/cinematic.jpg"
+  }
+]
